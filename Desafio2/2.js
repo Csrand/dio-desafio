@@ -4,7 +4,6 @@ let vitorias = Number(prompt("Digite o número de Vitórias: "));
 let derrotas = Number(prompt("Digite o número de Derrotas: "));
 
 function calcularVitorias(vitorias, derrotas) {
-    let totalVitorias = vitorias - derrotas;
     return totalVitorias;
 }
 
