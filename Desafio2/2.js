@@ -4,11 +4,7 @@ let vitorias = Number(prompt("Digite o número de Vitórias: "));
 let derrotas = Number(prompt("Digite o número de Derrotas: "));
 
 function calcularVitorias(vitorias, derrotas) {
-<<<<<<< HEAD
     return vitorias - derrotas;
-=======
-    return totalVitorias;
->>>>>>> 1908d82dd7d5144ab4dcf2eaefac0e75a713bbc4
 }
 
 function compararRanking(totalVitorias) {
