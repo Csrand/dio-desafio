@@ -13,8 +13,8 @@ function compararRanking(totalVitorias) {
         return;
     }
     if (totalVitorias >= 11 && totalVitorias <= 20) {
-        console.log("Ranking: Bronze\n");
-        return;
+      console.log("Ranking: Bronze\n");
+      return;
     }
     if (totalVitorias >= 21 && totalVitorias <= 50) {
         console.log("Ranking: Prata\n");
